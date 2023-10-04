@@ -1,0 +1,14 @@
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\bin\Debug\net7.0\AsyncAawait.exe
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\bin\Debug\net7.0\AsyncAawait.deps.json
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\bin\Debug\net7.0\AsyncAawait.runtimeconfig.json
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\bin\Debug\net7.0\AsyncAawait.dll
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\bin\Debug\net7.0\AsyncAawait.pdb
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\obj\Debug\net7.0\AsyncAawait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\obj\Debug\net7.0\AsyncAawait.AssemblyInfoInputs.cache
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\obj\Debug\net7.0\AsyncAawait.AssemblyInfo.cs
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\obj\Debug\net7.0\AsyncAawait.csproj.CoreCompileInputs.cache
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\obj\Debug\net7.0\AsyncAawait.dll
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\obj\Debug\net7.0\refint\AsyncAawait.dll
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\obj\Debug\net7.0\AsyncAawait.pdb
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\obj\Debug\net7.0\AsyncAawait.genruntimeconfig.cache
+C:\Users\IdeaPad\OneDrive\Documenti\AsyncAawait\obj\Debug\net7.0\ref\AsyncAawait.dll
